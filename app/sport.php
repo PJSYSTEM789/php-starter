@@ -193,7 +193,7 @@
                 </a>
 
                 <!-- HOT -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="hot.php">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="/lobby/hot">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="HOT" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_hot.png">
                     </div>
@@ -204,7 +204,7 @@
                 </a>
 
                 <!-- SPORTS (Active Page) -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border-2 border-amber-400 bg-amber-500/20 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-amber-500/30" href="sport.php">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border-2 border-amber-400 bg-amber-500/20 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-amber-500/30" href="/lobby/sport">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="SPORTS" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_sport.png">
                     </div>
@@ -215,7 +215,7 @@
                 </a>
 
                 <!-- SLOT -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="index.php">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="/lobby/slot">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="SLOT" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_slot.png">
                     </div>
@@ -226,7 +226,7 @@
                 </a>
 
                 <!-- CASINO -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="casino.php">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="/lobby/livecasino">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="CASINO" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_livecasino.png">
                     </div>
@@ -312,4 +312,138 @@
                             <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700/80">
                                 <h3 class="text-lg font-bold text-amber-400 mb-2">🎾 เดิมพันเทนนิส (Tennis)</h3>
                                 <p class="text-xs md:text-sm text-slate-300">
-                                    กีฬาประเภทบุคคลที่ใช้การวิเคราะ
+                                    กีฬาประเภทบุคคลที่ใช้การวิเคราะห์ฟอร์มการเล่นเดี่ยว โดดเด่นสำหรับการแข่ง แกรนด์สแลม เช่น ออสเตรเลียน โอเพ่น, เฟรนช์ โอเพ่น, วิมเบิลดัน และ ยูเอส โอเพ่น ทายผลจำนวนเซต หรือผู้ชนะในเกม
+                                </p>
+                            </div>
+                            <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700/80">
+                                <h3 class="text-lg font-bold text-amber-400 mb-2">🎮 อีสปอร์ต (E-Sports Betting)</h3>
+                                <p class="text-xs md:text-sm text-slate-300">
+                                    หมวดหมู่เดิมพันยุคใหม่ที่ได้รับความนิยมพุ่งทะยาน รองรับเกมแข่งขันระดับสากล เช่น ROV, DOTA 2, CS:GO, League of Legends (LoL) และ Valorant พร้อมระบบรับชมถ่ายทอดสดสดแบบเรียลไทม์
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Article Body - Section 3 -->
+                    <section class="space-y-4 mb-10 text-slate-300 text-sm md:text-base leading-relaxed">
+                        <h2 class="text-xl md:text-2xl font-bold text-amber-300">3. เจาะลึกตลาดการเดิมพัน (Betting Markets) และราคาต่อรอง</h2>
+                        <p>
+                            หัวใจสำคัญในการแทงบอลและเดิมพันกีฬาคือความเข้าใจในตัวเลือกและตลาดการต่อรองราคา หากผู้เล่นเข้าใจหลักการทำงานของแต่ละประเภทตลาด จะช่วยให้เปิดกว้างในการเลือกวางเดิมพันเพื่อสร้างเปรียบเหนือเจ้ามือได้อย่างมหาศาล:
+                        </p>
+                        <ul class="list-disc pl-6 space-y-3 text-slate-300">
+                            <li>
+                                <strong class="text-white">ราคาแฮนดิแคปเอเชีย (Asian Handicap - HDP):</strong> เป็นตลาดเดิมพันที่นิยมที่สุดในเอเชีย โดยการตั้งแต้มต่อ (Goal Line) เพื่อให้เกิดความเท่าเทียมกันระหว่างทีมต่อและทีมรอง เช่น ต่อ 0.5 (ปป.), 0.5/1 (ครึ่งลูกควบลูก), 1.0 (หนึ่งลูก)
+                            </li>
+                            <li>
+                                <strong class="text-white">สกอร์สูง/ต่ำ (Over / Under - O/U):</strong> การทายผลรวมประตูของทั้งสองทีมเมื่อจบการแข่งขันว่าจะสูงกว่าหรือต่ำกว่าตัวเลขที่ระบบกำหนด เช่น ราคา 2.5 ลูก หากยิงรวมกันได้ 3 ประตูขึ้นไปจะเป็นผล "สูง"
+                            </li>
+                            <li>
+                                <strong class="text-white">ราคา 1X2 (Moneyline / European Handicap):</strong> การทายผลแพ้ ชนะ หรือเสมอ แบบไม่มีแต้มต่อ โดย 1 = ทีมเหย้าชนะ, X = เสมอ, 2 = ทีมเยือนชนะ นิยมมากในฝั่งยุโรป
+                            </li>
+                            <li>
+                                <strong class="text-white">บอลสเต็ป / มิกซ์ พาร์เลย์ (Mix Parlay):</strong> การเลือกเดิมพันกีฬาตั้งแต่ 2 คู่ขึ้นไปจนถึง 12 คู่ภายในบิลเดียวกัน ข้อดีคือเงินรางวัลจะถูกคูณทวีคูณขึ้นไปเรื่อยๆ ตามค่าน้ำของทุกคู่ แต่มีเงื่อนไขว่าทุกคู่ในบิลต้องชนะเดิมพันทั้งหมด
+                            </li>
+                            <li>
+                                <strong class="text-white">การเดิมพันสด (Live / In-Play Betting):</strong> การวางเดิมพันขณะที่การแข่งขันกำลังดำเนินอยู่ โดยราคาน้ำและแต้มต่อจะขยับขึ้นลงตามรูปเกมและเวลาที่เหลืออยู่ตลอด 90 นาที
+                            </li>
+                        </ul>
+                    </section>
+
+                    <!-- Article Body - Section 4 -->
+                    <section class="space-y-4 mb-10 text-slate-300 text-sm md:text-base leading-relaxed">
+                        <h2 class="text-xl md:text-2xl font-bold text-amber-300">4. คู่มือการอ่านค่าน้ำ (Odds Formats) สำหรับนักเดิมพัน</h2>
+                        <p>
+                            ค่าน้ำคือตัวเลขที่บอกถึง "อัตราจ่ายเงินรางวัล" และ "ความเสี่ยง" ในการวางเดิมพันบนแพลตฟอร์มเดิมพันกีฬา โดยปกติแล้วจะมีรูปแบบค่าน้ำหลักๆ อยู่ 3 สไตล์ที่นิยมใช้ทั่วโลก:
+                        </p>
+                        
+                        <div class="space-y-4 my-4">
+                            <div class="bg-slate-800/40 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="text-base font-bold text-amber-300">1. ค่าน้ำมาเลเซีย (MY Odds)</h3>
+                                <p class="mt-1 text-sm">
+                                    แบ่งออกเป็น 2 ประเภท คือ <strong class="text-white">น้ำบวก</strong> (เช่น 0.85 วางเดิมพัน 100 ชนะได้กำไร 85 บาท) และ <strong class="text-white">น้ำติดลบ</strong> (เช่น -0.90 วางเดิมพันชนะได้กำไร 100 บาท แต่ถ้าแพ้จะเสียเพียง 90 บาท) ซึ่งค่าน้ำติดลบช่วยให้ผู้เล่นจำกัดความเสี่ยงของการเสียทุนได้ดีเยี่ยม
+                                </p>
+                            </div>
+                            <div class="bg-slate-800/40 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="text-base font-bold text-amber-300">2. ค่าน้ำฮ่องกง (HK Odds)</h3>
+                                <p class="mt-1 text-sm">
+                                    เป็นค่าน้ำที่คำนวณเฉพาะกำไรล้วนๆ โดยไม่มีตัวเลขติดลบ เช่น ค่าน้ำ HK 1.15 หากวางเดิมพัน 100 บาท แล้วชนะการแข่งขัน คุณจะได้กำไรเน้นๆ 115 บาท (บวกทุนคืนรวมเป็น 215 บาท)
+                                </p>
+                            </div>
+                            <div class="bg-slate-800/40 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="text-base font-bold text-amber-300">3. ค่าน้ำยุโรป (EU / Decimal Odds)</h3>
+                                <p class="mt-1 text-sm">
+                                    แสดงผลเป็นทศนิยมรวมทุน เช่น 2.15 การคำนวณง่ายที่สุด เพียงนำยอดเงินเดิมพันคูณด้วยค่าน้ำได้เลย เช่น เดิมพัน 100 x 2.15 = ผลตอบแทนรวม 215 บาท (กำไร 115 บาท + ทุน 100 บาท)
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Article Body - Section 5 -->
+                    <section class="space-y-4 mb-10 text-slate-300 text-sm md:text-base leading-relaxed">
+                        <h2 class="text-xl md:text-2xl font-bold text-amber-300">5. เทคนิคและกลยุทธ์การบริหารเงินทุนในการแทงบอล</h2>
+                        <p>
+                            การที่จะเป็นนักเดิมพันกีฬาที่ประสบความสำเร็จในระยะยาว อาศัยเพียงแค่โชคชะตาไม่ได้ แต่ต้องมีวินัยและกลยุทธ์การวิเคราะห์ข้อมูลอย่างมีระบบดังนี้:
+                        </p>
+                        <ol class="list-decimal pl-6 space-y-3 text-slate-300">
+                            <li>
+                                <strong class="text-white">วิเคราะห์สถิติและข่าวสารความพร้อม:</strong> ตรวจสอบสถิติการพบกัน (Head to Head), ฟอร์มการเล่น 5 นัดหลังสุด, รายชื่อผู้เล่นตัวจริงที่บาดเจ็บหรือติดโทษแบน ตลอดจนปัจจัยเรื่องสภาพอากาศและแรงจูงใจในการแข่งขัน
+                            </li>
+                            <li>
+                                <strong class="text-white">ใช้กฎบริหารเงินทุน 5% (Bankroll Management):</strong> กำหนดเงินทุนก้อนสำหรับการเดิมพันกีฬาโดยเฉพาะ และไม่ควรรวมกับเงินที่ใช้ในชีวิตประจำวัน โดยในการวางเดิมพันแต่ละบิลไม่ควรเกิน 2% - 5% ของเงินทุนทั้งหมด
+                            </li>
+                            <li>
+                                <strong class="text-white">หลีกเลี่ยงการแทงทีมรักด้วยอารมณ์:</strong> การวางเดิมพันด้วยความชอบส่วนตัวมักจะทำให้มุมมองการวิเคราะห์อคติ ควรตัดสินใจจากตัวเลขสถิติและความเป็นไปได้ตามจริงเสมอ
+                            </li>
+                            <li>
+                                <strong class="text-white">จดบันทึกประวัติการเดิมพัน (Bet Tracker):</strong> การบันทึกสถิติว่าเดิมพันประเภทไหนลีกอะไรแล้วทำกำไรได้ดีที่สุด จะช่วยให้คุณค้นพบจุดแข็งของตนเองและปรับปรุงแผนการเดิมพันได้อย่างแม่นยำยิ่งขึ้น
+                            </li>
+                        </ol>
+                    </section>
+
+                    <!-- Article Body - Section 6: FAQ -->
+                    <section class="mt-12 pt-8 border-t border-slate-800">
+                        <h2 class="text-xl md:text-2xl font-extrabold text-amber-400 mb-6">คำถามที่พบบ่อยเกี่ยวกับการเดิมพันกีฬาและแทงบอลออนไลน์ (FAQ)</h2>
+
+                        <div class="space-y-4">
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q1: ค่าน้ำในการแทงบอลออนไลน์คืออะไร และมีความสำคัญอย่างไร?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: ค่าน้ำ (Odds) คืออัตราส่วนที่จะกำหนดจำนวนเงินรางวัลที่คุณจะได้หรือจำนวนเงินที่จะเสียในการเดิมพันแต่ละครั้ง ค่าน้ำที่ดี (เช่น ค่าน้ำ 4 ตังค์) จะช่วยให้ผู้เล่นได้รับผลตอบแทนสูงสุดเมื่อชนะเดิมพัน</p>
+                            </div>
+
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q2: การแทงบอลแบบราคาแฮนดิแคป (Handicap) ทำงานอย่างไร?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: ราคาแฮนดิแคปคือการตั้งแต้มต่อระหว่างทีมเต็งและทีมรอง เพื่อสร้างความสมดุลในการแข่งขัน เช่น ราคาต่อ 0.5 หมายถึงทีมเต็งต้องยิงชนะอย่างน้อย 1 ประตูจึงจะชนะเดิมพัน หากเสมอหรือแพ้ถือว่าเสียเดิมพัน</p>
+                            </div>
+
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q3: แทงบอลสเต็ป (Mix Parlay) ต่างจากแทงบอลเต็งอย่างไร?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: บอลเต็งคือการเลือกแทงเพียงคู่เดียวต่อ 1 บิล มีอัตราความเสี่ยงต่ำกว่า ส่วนบอลสเต็ปคือการเลือกแทงหลายคู่พร้อมกันในบิลเดียว ผลตอบแทนจะคูณเพิ่มทวีคูณตามจำนวนคู่ แต่มีเงื่อนไขว่าทุกคู่ในบิลต้องเข้าทั้งหมด</p>
+                            </div>
+
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q4: ค่าน้ำแบบ MY (มาเลเซีย), HK (ฮ่องกง) และ EU (ยุโรป) ต่างกันอย่างไร?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: ค่าน้ำ MY มีทั้งติดลบ (เสียไม่เต็ม) และบวก, ค่าน้ำ HK คิดคำนวณกำไรล้วนๆ โดยไม่รวมเงินทุน ส่วนค่าน้ำ EU คิดคำนวณผลตอบแทนรวมเงินทุนทั้งหมด (คิดจาก ทุน x ค่าน้ำ)</p>
+                            </div>
+
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q5: สามารถเดิมพันกีฬาระหว่างการแข่งขันสด (Live Betting) ได้หรือไม่?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: สามารถทำได้ ระบบรองรับการแทงบอลสดขณะกำลังแข่งขัน โดยราคาน้ำและแต้มต่อจะปรับเปลี่ยนตลอดเวลาตามสถานการณ์จริงในสนามในระดับวินาที</p>
+                            </div>
+
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q6: ทำไมควรสมัครเดิมพันกีฬากับเว็บตรงไม่ผ่านเอเย่นต์?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: การแทงบอลผ่านเว็บตรงให้ราคาน้ำดีที่สุด (ค่าน้ำ 4 ตังค์) ไม่มีหักเปอร์เซ็นต์ มีระบบฝากถอนอัตโนมัติที่รวดเร็ว มั่นคง ปลอดภัย รองรับการใช้งานตลอด 24 ชั่วโมงโดยไม่มีการปิดปรับปรุงระบบกะทันหัน</p>
+                            </div>
+                        </div>
+                    </section>
+
+                </article>
+
+            </section>
+
+        </div>
+
+    </main>
+
+</body>
+</html>
