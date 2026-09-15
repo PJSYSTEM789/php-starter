@@ -188,7 +188,7 @@
                 </a>
 
                 <!-- HOT -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="hot.php">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="/lobby/hot">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="HOT" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_hot.png">
                     </div>
@@ -199,7 +199,7 @@
                 </a>
 
                 <!-- SPORTS -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="sport.php">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="/lobby/sport">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="SPORTS" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_sport.png">
                     </div>
@@ -210,7 +210,7 @@
                 </a>
 
                 <!-- SLOT -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="index.php">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="/lobby/slot">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="SLOT" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_slot.png">
                     </div>
@@ -221,7 +221,7 @@
                 </a>
 
                 <!-- CASINO (Active Page) -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border-2 border-amber-400 bg-amber-500/20 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-amber-500/30" href="casino.php">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border-2 border-amber-400 bg-amber-500/20 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-amber-500/30" href="/lobby/livecasino">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="CASINO" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_livecasino.png">
                     </div>
@@ -306,4 +306,127 @@
                                 <p>
                                     เกมวงล้อเสี่ยงโชคสุดคลาสสิก ผู้เล่นวางเดิมพันในตัวเลข 0-36 หรือรูปแบบกลุ่ม เช่น แดง/ดำ, คู่/คี่, สูง/ต่ำ
                                 </p>
-   
+                                <ul class="list-disc list-inside mt-2 text-slate-300 space-y-1">
+                                    <li><strong class="text-white">European Roulette (0 ตัวเดียว):</strong> มีค่า House Edge อยู่ที่ <span class="text-amber-300">2.70%</span> (แนะนำให้เลือกเล่นแบบนี้)</li>
+                                    <li><strong class="text-white">American Roulette (0 และ 00):</strong> มีค่า House Edge เพิ่มขึ้นเป็น <span class="text-red-400">5.26%</span></li>
+                                </ul>
+                            </div>
+
+                            <div class="bg-slate-800/40 p-5 rounded-xl border border-slate-700/50">
+                                <h3 class="text-lg font-bold text-amber-400 mb-2">2.3 เสือมังกร (Dragon Tiger) และ ไฮโล (Sic Bo)</h3>
+                                <p>
+                                    **เสือมังกร** ใช้ไพ่ใบเดียวตัดสินผลแพ้ชนะ เหมาะสำหรับผู้ที่ชอบเกมกระชับรวดเร็ว มี House Edge ประมาณ 3.73% ส่วน **ไฮโลออนไลน์** เป็นเกมการทายผลลูกเต๋า 3 ลูกที่มีรูปแบบการเดิมพันหลากหลาย ตั้งแต่แทงสูง-ต่ำ (House Edge 2.78%) ไปจนถึงการแทงตอง (House Edge สูงถึง 16.25%)
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Article Body - Section 3 -->
+                    <section class="space-y-4 mb-10 text-slate-300 text-sm md:text-base leading-relaxed">
+                        <h2 class="text-xl md:text-2xl font-bold text-amber-300">3. โครงสร้างกลยุทธ์การบริหารเงินทุน (Money Management) ในคาสิโน</h2>
+                        <p>
+                            นักเล่นระดับมืออาชีพต่างทราบดีว่า สิ่งที่แยกความแตกต่างระหว่าง "ผู้เล่นที่ทำกำไรได้" และ "ผู้เล่นที่สูญเสียทุน" ไม่ใช่แค่ดวง แต่คือ **กลยุทธ์การบริหารเงินทุน** ซึ่งเป็นเครื่องมือป้องกันความเสี่ยงและสร้างวินัยในการเดิมพันอย่างเป็นระบบ:
+                        </p>
+
+                        <!-- Strategy Table -->
+                        <div class="overflow-x-auto my-6">
+                            <table class="w-full text-left border-collapse bg-slate-800/60 rounded-xl overflow-hidden">
+                                <thead>
+                                    <tr class="bg-slate-800 border-b border-slate-700 text-amber-400">
+                                        <th class="p-3 text-sm font-bold">สูตรการเดินเงิน</th>
+                                        <th class="p-3 text-sm font-bold">หลักการทำงาน</th>
+                                        <th class="p-3 text-sm font-bold">ระดับความเสี่ยง</th>
+                                        <th class="p-3 text-sm font-bold">ข้อดี / ข้อควรระวัง</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="divide-y divide-slate-700/50 text-xs md:text-sm">
+                                    <tr>
+                                        <td class="p-3 font-semibold text-white">Martingale System</td>
+                                        <td class="p-3">ทบเงินเป็น 2 เท่าทุกครั้งที่แพ้ (1-2-4-8-16) เมื่อชนะจะได้ทุนคืนพร้อมกำไร 1 หน่วย</td>
+                                        <td class="p-3 text-red-400 font-bold">สูงมาก</td>
+                                        <td class="p-3">ได้กำไรชัวร์ถ้ามีทุนไม่จำกัด แต่เสี่ยงหมดตูดหากเจอแพ้ติดต่อกันเกิน 5-6 ไม้</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="p-3 font-semibold text-white">Fibonacci System</td>
+                                        <td class="p-3">เพิ่มเงินตามอนุกรม ฟีโบนักชี (1, 1, 2, 3, 5, 8, 13) เมื่อแพ้ขยับไปข้างหน้า เมื่อชนะถอยกลับ 2 ก้าว</td>
+                                        <td class="p-3 text-amber-400 font-bold">ปานกลาง</td>
+                                        <td class="p-3">ช่วยดึงทุนคืนได้โดยไม่ต้องทบเงินหนักเท่า Martingale เหมาะกับเกมที่มีความมั่นคง</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="p-3 font-semibold text-white">Flat Betting</td>
+                                        <td class="p-3">วางเดิมพันด้วยจำนวนเงินคงที่เท่ากันทุกตา (เช่น 2-5% ของทุนทั้งหมด)</td>
+                                        <td class="p-3 text-green-400 font-bold">ต่ำมาก</td>
+                                        <td class="p-3">ปลอดภัยสูงสุด รักษาวินัยได้ง่าย เหมาะกับผู้เล่นเริ่มต้นและผู้ที่เน้นทำกำไรระยะยาว</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <p>
+                            ข้อแนะนำเพิ่มเติมในการบริหารเงินทุนคือ การกำหนดเป้าหมายกำไร (Take Profit) และจุดตัดขาดทุน (Stop Loss) อย่างชัดเจนก่อนเริ่มเล่นเสมอ เช่น กำหนดไว้ที่กำไร 30% ของทุน หรือเสียไม่เกิน 20% ของทุน เมื่อถึงเป้าหมายต้องหยุดเล่นทันทีโดยไม่มีข้ออ้าง
+                        </p>
+                    </section>
+
+                    <!-- Article Body - Section 4 -->
+                    <section class="space-y-4 mb-10 text-slate-300 text-sm md:text-base leading-relaxed">
+                        <h2 class="text-xl md:text-2xl font-bold text-amber-300">4. จิตวิทยาการเดิมพันและการคุมอารมณ์ในคาสิโนออนไลน์</h2>
+                        <p>
+                            ปัจจัยที่นำไปสู่ความล้มเหลวในการเล่น **คาสิโนออนไลน์** ส่วนใหญ่เกิดจากปัจจัยทางจิตวิทยา โดยเฉพาะปรากฏการณ์ทางจิตวิทยาที่เรียกว่า *Gambler's Fallacy* (ความเข้าใจผิดของนักพนัน) ซึ่งเชื่อว่าหากผลลัพธ์ออกฝั่งใดฝั่งหนึ่งติดต่อกันหลายครั้ง ตาถัดไปจะต้องออกฝั่งตรงข้ามอย่างแน่นอน ทั้งที่ในความเป็นจริง แต่ละรอบการเปิดไพ่หรือหมุนวงล้อเป็นเหตุการณ์ที่เป็นอิสระต่อกัน (Independent Event)
+                        </p>
+                        <p>
+                            การรักษาสติ คุมอารมณ์ ไม่หัวร้อนเมื่อเสียติดๆ กัน และไม่ตกอยู่ในกับดักความโลภเมื่อได้กำไร คือกุญแจสำคัญที่ทำให้นักลงทุนคาสิโนระดับมืออาชีพประสบความสำเร็จในระยะยาว
+                        </p>
+                    </section>
+
+                    <!-- Article Body - Section 5 -->
+                    <section class="space-y-4 mb-10 text-slate-300 text-sm md:text-base leading-relaxed">
+                        <h2 class="text-xl md:text-2xl font-bold text-amber-300">5. ระบบฝากถอนอัตโนมัติและมาตรฐานความปลอดภัยสากล</h2>
+                        <p>
+                            การเลือกเล่นผ่าน **คาสิโนเว็บตรง** มาพร้อมกับสิทธิประโยชน์ด้านความสะดวกสบายด้วยระบบฝาก-ถอนอัตโนมัติ (Auto Withdrawal) ที่ทำงานด้วยปัญญาประดิษฐ์ (AI) รองรับทุกสถาบันการเงินหลักในประเทศไทย รวมถึงบริการ TrueMoney Wallet ทำรายการเสร็จสิ้นภายในไม่กี่วินาที ไม่ต้องผ่านแอดมิน ถอนเงินได้จริงเต็มจำนวน ไม่หักเปอร์เซ็นต์หรือติดเงื่อนไขการทำเทิร์นโอเวอร์ที่ไม่เป็นธรรม
+                        </p>
+                        <p>
+                            ผู้เล่นสามารถเริ่มต้นเปิดประสบการณ์เดิมพันอย่างเหนือระดับ ได้ง่ายๆ ผ่านทางเข้าหลัก <a href="https://bit.ly/4xylZ4L" target="_blank" rel="noopener noreferrer" class="text-amber-400 font-bold underline hover:text-amber-300">https://bit.ly/4xylZ4L</a> ตลอด 24 ชั่วโมง
+                        </p>
+                    </section>
+
+                    <!-- Article Body - Section 6: FAQ -->
+                    <section class="mt-12 pt-8 border-t border-slate-800">
+                        <h2 class="text-xl md:text-2xl font-extrabold text-amber-400 mb-6">คำถามที่พบบ่อยเกี่ยวกับคาสิโนออนไลน์และคาสิโนสด (FAQ)</h2>
+
+                        <div class="space-y-4">
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q1: คาสิโนออนไลน์เว็บตรงมีความปลอดภัยแตกต่างจากเว็บผ่านเอเย่นต์อย่างไร?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: คาสิโนเว็บตรงส่งสัญญาณถ่ายทอดสดด้วยระบบ API แท้จากค่ายเกมโดยตรง ปราศจากการดัดแปลงผลลัพธ์หรือดีเลย์สัญญาณ มีใบอนุญาตคาสิโนสากลรองรับ และรองรับการฝากถอนเงินอัตโนมัติแบบไร้ขั้นต่ำโดยไม่มีล็อกยูสเซอร์</p>
+                            </div>
+
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q2: เกมคาสิโนสดประเภทใดที่มีอัตราความได้เปรียบของเจ้ามือ (House Edge) ต่ำที่สุด?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: เกมแบล็คแจ็ค (Blackjack) เมื่อเล่นด้วยกลยุทธ์พื้นฐานจะมี House Edge ต่ำสุดเพียงประมาณ 0.5% รองลงมาคือ บาคาร่า (ฝั่งเจ้ามือ/Banker) อยู่ที่ประมาณ 1.06% และ รูเล็ตแบบยุโรป อยู่ที่ประมาณ 2.7%</p>
+                            </div>
+
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q3: เทคนิคการเดินเงินแบบ Martingale ในบาคาร่าเหมาะกับผู้เล่นประเภทใด?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: เหมาะกับผู้เล่นที่มีทุนหนาและเข้าใจความเสี่ยงของการทบเงินสองเท่าเมื่อแพ้ อย่างไรก็ตาม ควรตั้งขีดจำกัดการทบไม้ไม่เกิน 4-5 ไม้เพื่อป้องกันความเสี่ยงจากกรณีมังกรหรือพุ่มยาว</p>
+                            </div>
+
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q4: ระบบฝากถอนอัตโนมัติในเว็บคาสิโนรองรับช่องทางใดบ้างและใช้เวลานานเท่าใด?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: รองรับธนาคารชั้นนำทั่วประเทศรวมถึง TrueMoney Wallet ทำรายการเสร็จสิ้นภายใน 3-10 วินาที ผ่านระบบประมวลผลอัตโนมัติอัจฉริยะแบบ 24 ชั่วโมง</p>
+                            </div>
+
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q5: สามารถทดลองเล่นคาสิโนสดก่อนลงเดิมพันด้วยเงินจริงได้หรือไม่?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: ได้ สามารถเข้าสู่ระบบผ่านทางเข้าหลัก <a href="https://bit.ly/4xylZ4L" target="_blank" rel="noopener noreferrer" class="text-amber-400 underline">https://bit.ly/4xylZ4L</a> เพื่อใช้งานโหมดทดลองเล่น หรือเข้าชมบรรยากาศโต๊ะเดิมพันสดได้ทันที</p>
+                            </div>
+                        </div>
+                    </section>
+
+                </article>
+
+            </section>
+
+        </div>
+    </main>
+
+</body>
+</html>
