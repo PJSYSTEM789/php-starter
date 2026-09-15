@@ -185,7 +185,7 @@
                 </a>
 
                 <!-- HOT -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="/lobby/hot">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="hot.php">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="HOT" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_hot.png">
                     </div>
@@ -196,7 +196,7 @@
                 </a>
 
                 <!-- SPORTS -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="/lobby/sport">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="sport.php">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="SPORTS" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_sport.png">
                     </div>
@@ -207,7 +207,7 @@
                 </a>
 
                 <!-- SLOT (Active Page) -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border-2 border-amber-400 bg-amber-500/20 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-amber-500/30" href="/lobby/slot">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border-2 border-amber-400 bg-amber-500/20 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-amber-500/30" href="index.php">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="SLOT" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_slot.png">
                     </div>
@@ -218,7 +218,7 @@
                 </a>
 
                 <!-- CASINO -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="/lobby/livecasino">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="casino.php">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="CASINO" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_livecasino.png">
                     </div>
