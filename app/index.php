@@ -11,7 +11,7 @@
     <meta name="keywords" content="สล็อต, สล็อตเว็บตรง, เกมส์สล็อต, pgslot, pg, สล็อตออนไลน์">
     <meta name="robots" content="index, follow">
     <meta name="author" content="สล็อตเว็บตรง">
-
+    <meta name="google-site-verification" content="3anT3-ED1qnBuIVsYn_fD8uFQBy5iZ_luabwCRxHKcs" />
     <!-- Open Graph / Facebook / LINE -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://bit.ly/4xylZ4L">
