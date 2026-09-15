@@ -210,7 +210,7 @@
                 </a>
 
                 <!-- SLOT -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="slot.php">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border border-white/20 bg-slate-800/60 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 text-white hover:bg-slate-700/60" href="index.php">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="SLOT" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_slot.png">
                     </div>
