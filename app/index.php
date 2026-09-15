@@ -174,7 +174,7 @@
             <aside class="flex flex-col gap-3 bg-sidebar px-[5px] pt-4 lg:px-4 border-r border-white/5 sticky top-[56px] lg:top-[70px] h-[calc(100vh-56px)] lg:h-[calc(100vh-70px)] overflow-y-auto">
                 
                 <!-- Dashboard -->
-                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border-2 border-white/40 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 bg-amber-500/10 text-white hover:opacity-90" href="/lobby">
+                <a class="relative flex w-full flex-col items-center justify-start gap-0 rounded-[14px] border-2 border-white/40 px-[2px] py-[10px] lg:flex-row lg:gap-2 lg:p-4 bg-amber-500/10 text-white hover:opacity-90" href="lobby.php">
                     <div class="w-[30px] lg:w-[35px]">
                         <img alt="Dashboard" class="w-full h-auto" src="https://cdn1.florences.dev/static/platform/vivy123/icon_certificate.png">
                     </div>
