@@ -310,5 +310,26 @@
                                 <h3 class="font-bold text-white text-base">Q4: เทคนิคการปรับขนาดเงินเดิมพัน (Bet Sizing) ในสล็อต PG ควรทำอย่างไร?</h3>
                                 <p class="text-slate-300 text-sm mt-2">A: ควรเริ่มต้นวางเดิมพันด้วยขั้นต่ำเพื่อสังเกตจังหวะการแจกรางวัลของรอบสปิน เมื่อเกมเริ่มจ่ายรางวัลต่อเนื่องจึงค่อยๆ ปรับเพิ่มเงินเดิมพันตามแผนที่วางไว้</p>
                             </div>
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q4: เทคนิคการปรับขนาดเงินเดิมพัน (Bet Sizing) ในสล็อต PG ควรทำอย่างไร?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: ควรเริ่มต้นวางเดิมพันด้วยขั้นต่ำเพื่อสังเกตจังหวะการแจกรางวัลของรอบสปิน เมื่อเกมเริ่มจ่ายรางวัลต่อเนื่องจึงค่อยๆ ปรับเพิ่มเงินเดิมพันตามแผนที่วางไว้</p>
+                            </div>
+
+                            <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700/60">
+                                <h3 class="font-bold text-white text-base">Q5: ฟีเจอร์ Free Spins มีส่วนช่วยให้แจ็คพอตแตกง่ายขึ้นจริงหรือไม่?</h3>
+                                <p class="text-slate-300 text-sm mt-2">A: ฟีเจอร์ Free Spins ช่วยเพิ่มโอกาสชนะด้วยตัวคูณรางวัลพิเศษและสัญลักษณ์ Wild ที่ปรากฏบ่อยขึ้น โดยไม่ต้องเสียเงินเดิมพันเพิ่มในรอบหมุนฟรี</p>
+                            </div>
+                        </div>
+                    </section>
+
+                </article>
+
+            </section>
+
+        </div>
+    </main>
+
+</body>
+</html>
 
    
