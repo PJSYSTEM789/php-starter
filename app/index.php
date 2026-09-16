@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+4xylZ4L4LTYPE html>
 <html lang="th" class="vivy123">
 <head>
     <meta charset="UTF-8">
@@ -14,20 +14,20 @@
     <meta name="google-site-verification" content="3anT3-ED1qnBuIVsYn_fD8uFQBy5iZ_luabwCRxHKcs" />
     <!-- Open Graph / Facebook / LINE -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://bit.ly/4xylZ4L">
+    <meta property="og:url" content="https://membervivy123.com/register?affiliate_code=0985552222">
     <meta property="og:title" content="สล็อตเว็บตรง สล็อตเว็บตรง แตกง่าย pgslot เกมส์สล็อตไม่ผ่านเอเย่น">
     <meta property="og:description" content="สล็อตเว็บตรง แตกง่าย pg สล็อตออนไลน์ไม่ผ่านเอเย่นต์ pgslot เกมส์สล็อตเจ้าเดียวในประเทศไทย ด้วยระบบ API สล็อตแท้">
     <meta property="og:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
 
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://bit.ly/4xylZ4L">
+    <meta property="twitter:url" content="https://membervivy123.com/register?affiliate_code=0985552222">
     <meta property="twitter:title" content="สล็อตเว็บตรง สล็อตเว็บตรง แตกง่าย pgslot">
     <meta property="twitter:description" content="สล็อตเว็บตรง แตกง่าย pg สล็อตออนไลน์ไม่ผ่านเอเย่นต์ pgslot ด้วยระบบ API สล็อตแท้">
     <meta property="twitter:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://bit.ly/4xylZ4L">
+    <link rel="canonical" href="https://membervivy123.com/register?affiliate_code=0985552222">
 
     <!-- Favicon & Theme Color -->
     <link rel="icon" type="image/png" href="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
@@ -82,15 +82,15 @@
       "@graph": [
         {
           "@type": "Article",
-          "@id": "https://vivy123.com/slot/#article",
+          "@id": "https://pjsystem789-php-starter.wasmer.app/slot.php",
           "headline": "เจาะลึกเทคนิคการเล่นสล็อต และกลยุทธ์ทำกำไรจากค่าย PGSLOT",
           "description": "บทความคู่มือการเล่นสล็อตอย่างมีประสิทธิภาพ วิเคราะห์ระบบ RNG ค่า RTP และการบริหารเงินทุนในการเล่นเกมส์สล็อต PG",
           "keywords": ["สล็อต", "สล็อตเว็บตรง", "เกมส์สล็อต", "pgslot", "pg", "สล็อตออนไลน์"],
-          "mainEntityOfPage": "https://vivy123.com/slot",
+          "mainEntityOfPage": "https://pjsystem789-php-starter.wasmer.app/slot.php",
           "publisher": {
             "@type": "Organization",
             "name": "VIVY123",
-            "url": "https://bit.ly/4xylZ4L"
+            "url": "https://membervivy123.com/register?affiliate_code=0985552222"
           }
         },
         {
@@ -152,7 +152,7 @@
             <div class="container relative mx-auto flex h-full items-center justify-between lg:max-w-[900px] xl:max-w-[1185px]">
                 
                 <!-- Logo -->
-                <a href="/lobby">
+                <a href="index.php">
                     <div class="relative h-[48px] w-[150px] lg:ml-6 lg:h-[48px] lg:w-[160px] flex items-center justify-center">
                         <img alt="VIVY123" width="150" height="45" class="w-full h-auto object-contain" src="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
                     </div>
@@ -161,12 +161,12 @@
                 <!-- Guest Header Buttons -->
                 <div class="flex items-center gap-2 lg:gap-3">
                     <!-- ปุ่มเข้าสู่ระบบ -->
-                    <a href="https://bit.ly/4xylZ4L" target="_blank" rel="noopener noreferrer" class="px-3 py-1.5 lg:px-4 lg:py-2 text-xs lg:text-sm font-semibold text-white bg-white/10 hover:bg-white/20 rounded-lg border border-white/20 transition-all">
+                    <a href="https://membervivy123.com/register?affiliate_code=0985552222" target="_blank" rel="noopener noreferrer" class="px-3 py-1.5 lg:px-4 lg:py-2 text-xs lg:text-sm font-semibold text-white bg-white/10 hover:bg-white/20 rounded-lg border border-white/20 transition-all">
                         เข้าสู่ระบบ
                     </a>
 
                     <!-- ปุ่มสมัครสมาชิก -->
-                    <a href="https://bit.ly/4xylZ4L" target="_blank" rel="noopener noreferrer" class="btn-register px-3 py-1.5 lg:px-5 lg:py-2 text-xs lg:text-sm font-bold text-slate-900 rounded-lg flex items-center gap-1">
+                    <a href="https://membervivy123.com/register?affiliate_code=0985552222" target="_blank" rel="noopener noreferrer" class="btn-register px-3 py-1.5 lg:px-5 lg:py-2 text-xs lg:text-sm font-bold text-slate-900 rounded-lg flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
                             <path d="M8 9a3 3 0 100-6 3 3 0 000 6zM8 11a6 6 0 016 6H2a6 6 0 016-6zM16 7a1 1 0 10-2 0v1h-1a1 1 0 100 2h1v1a1 1 0 102 0v-1h1a1 1 0 100-2h-1V7z" />
                         </svg>
@@ -267,7 +267,7 @@
                         
                         <!-- Backlink Action Button -->
                         <div class="mt-6 flex flex-wrap items-center gap-4">
-                            <a href="https://bit.ly/4xylZ4L" target="_blank" rel="noopener noreferrer" class="btn-register inline-flex items-center gap-2 text-slate-950 font-bold px-6 py-3 rounded-xl transition-all shadow-lg">
+                            <a href="https://membervivy123.com/register?affiliate_code=0985552222" target="_blank" rel="noopener noreferrer" class="btn-register inline-flex items-center gap-2 text-slate-950 font-bold px-6 py-3 rounded-xl transition-all shadow-lg">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
                                     <path fill-rule="evenodd" d="M3 3a1 1 0 011-1h12a1 1 0 011 1v12a1 1 0 01-1 1H4a1 1 0 01-1-1V3zm11 4a1 1 0 10-2 0v4a1 1 0 102 0V7zm-3 1a1 1 0 10-2 0v3a1 1 0 102 0V8z" clip-rule="evenodd" />
                                 </svg>
