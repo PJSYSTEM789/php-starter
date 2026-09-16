@@ -40,7 +40,8 @@
     
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Google tag (gtag.js) -->
+
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1BXN2PF65H"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -49,6 +50,7 @@
 
   gtag('config', 'G-1BXN2PF65H');
 </script>
+    
     <!-- Custom CSS Styles -->
     <style>
         body {
