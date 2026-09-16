@@ -1,0 +1,41 @@
+# Allow all standard web crawlers and SEO bots
+User-agent: *
+Allow: /
+
+# Explicitly Allow Google Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+# Explicitly Allow AI Crawlers & AI Search Bots (Google, OpenAI, Anthropic, Perplexity, etc.)
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemap Location (เปลี่ยนเป็น URL Sitemap จริงของเว็บไซต์คุณ)
+Sitemap: https://pjsystem789-php-starter.wasmer.app/sitemap_1.xml
