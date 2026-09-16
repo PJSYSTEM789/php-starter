@@ -14,20 +14,20 @@
 
     <!-- Open Graph / Facebook / LINE -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://bit.ly/4xylZ4L">
+    <meta property="og:url" content="https://pjsystem789-php-starter.wasmer.app">
     <meta property="og:title" content="สล็อตเว็บตรง vivy123 แหล่งรวมค่ายเกมชั้นนำ ถอนได้ไม่จำกัด">
     <meta property="og:description" content="ศูนย์รวมความบันเทิงสล็อตออนไลน์เว็บตรง vivy123 รวบรวมค่ายเกมชั้นนำระดับโลกกว่า 30 ค่าย ปลอดภัยด้วยระบบ API แท้">
     <meta property="og:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
 
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://bit.ly/4xylZ4L">
+    <meta property="twitter:url" content="https://membervivy123.com/register?affiliate_code=0985552222">
     <meta property="twitter:title" content="สล็อตเว็บตรง vivy123 แหล่งรวมค่ายเกมสล็อตชั้นนำ">
     <meta property="twitter:description" content="สมัครสมาชิก vivy123 สล็อตเว็บตรง แตกง่าย รวมทุกค่ายเกมชั้นนำในเว็บเดียว">
     <meta property="twitter:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://bit.ly/4xylZ4L">
+    <link rel="canonical" href="https://membervivy123.com/register?affiliate_code=0985552222">
 
     <!-- Favicon & Theme Color -->
     <link rel="icon" type="image/png" href="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
@@ -72,7 +72,7 @@
       "@graph": [
         {
           "@type": "Article",
-          "@id": "https://vivy123.com/lobby/#article",
+          "@id": "https://pjsystem789-php-starter.wasmer.app/slot.php",
           "headline": "เจาะลึก สล็อตเว็บตรง vivy123 คู่มือเลือกค่ายเกมสล็อตชั้นนำ และแนวทางทำกำไรอย่างยั่งยืน",
           "description": "แนะนำศูนย์รวมเกมสล็อตออนไลน์ vivy123 เว็บตรงไม่ผ่านเอเย่นต์ รวบรวมค่ายเกมระดับโลก อธิบายระบบ API แท้ ค่า RTP และเทคนิคการเล่น",
           "keywords": ["สล็อตเว็บตรง", "vivy123", "สล็อตออนไลน์", "PG Slot", "Pragmatic Play", "ค่ายเกมสล็อต"],
@@ -80,7 +80,7 @@
           "publisher": {
             "@type": "Organization",
             "name": "VIVY123",
-            "url": "https://bit.ly/4xylZ4L"
+            "url": "https://membervivy123.com/register?affiliate_code=0985552222"
           }
         },
         {
@@ -175,12 +175,12 @@
                 <!-- Guest Header Buttons -->
                 <div class="flex items-center gap-2 lg:gap-3">
                     <!-- ปุ่มเข้าสู่ระบบ -->
-                    <a href="https://bit.ly/4xylZ4L" target="_blank" rel="noopener noreferrer" class="px-3 py-1.5 lg:px-4 lg:py-2 text-xs lg:text-sm font-semibold text-white bg-white/10 hover:bg-white/20 rounded-lg border border-white/20 transition-all">
+                    <a href="https://membervivy123.com/register?affiliate_code=0985552222" target="_blank" rel="noopener noreferrer" class="px-3 py-1.5 lg:px-4 lg:py-2 text-xs lg:text-sm font-semibold text-white bg-white/10 hover:bg-white/20 rounded-lg border border-white/20 transition-all">
                         เข้าสู่ระบบ
                     </a>
 
                     <!-- ปุ่มสมัครสมาชิก -->
-                    <a href="https://bit.ly/4xylZ4L" target="_blank" rel="noopener noreferrer" class="btn-register px-3 py-1.5 lg:px-5 lg:py-2 text-xs lg:text-sm font-bold text-slate-900 rounded-lg flex items-center gap-1">
+                    <a href="https://membervivy123.com/register?affiliate_code=0985552222" target="_blank" rel="noopener noreferrer" class="btn-register px-3 py-1.5 lg:px-5 lg:py-2 text-xs lg:text-sm font-bold text-slate-900 rounded-lg flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
                             <path d="M8 9a3 3 0 100-6 3 3 0 000 6zM8 11a6 6 0 016 6H2a6 6 0 016-6zM16 7a1 1 0 10-2 0v1h-1a1 1 0 100 2h1v1a1 1 0 102 0v-1h1a1 1 0 100-2h-1V7z" />
                         </svg>
@@ -281,7 +281,7 @@
                         
                         <!-- Backlink Action Button -->
                         <div class="mt-6 flex flex-wrap items-center gap-4">
-                            <a href="https://bit.ly/4xylZ4L" target="_blank" rel="noopener noreferrer" class="btn-register inline-flex items-center gap-2 text-slate-950 font-bold px-6 py-3 rounded-xl transition-all shadow-lg">
+                            <a href="https://membervivy123.com/register?affiliate_code=0985552222" target="_blank" rel="noopener noreferrer" class="btn-register inline-flex items-center gap-2 text-slate-950 font-bold px-6 py-3 rounded-xl transition-all shadow-lg">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
                                     <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
                                 </svg>
