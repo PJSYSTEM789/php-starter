@@ -17,20 +17,20 @@
 
     <!-- Open Graph / Facebook / LINE -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://bit.ly/4xylZ4L">
+    <meta property="og:url" content="https://pjsystem789-php-starter.wasmer.app">
     <meta property="og:title" content="คาสิโนเว็บตรง คาสิโนออนไลน์ บาคาร่าสด รวมทุกค่ายชั้นนำ">
     <meta property="og:description" content="สัมผัสประสบการณ์คาสิโนออนไลน์ระดับโลก คาสิโนสด ถ่ายทอดตรงจากบ่อนชั้นนำ ถอนเงินระบบออโต้ ปลอดภัย 100%">
     <meta property="og:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
 
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://bit.ly/4xylZ4L">
+    <meta property="twitter:url" content="https://pjsystem789-php-starter.wasmer.app">
     <meta property="twitter:title" content="คาสิโนเว็บตรง คาสิโนออนไลน์ บาคาร่าสด">
     <meta property="twitter:description" content="คาสิโนเว็บตรง ระบบสด HD รวมเกมคาสิโนออนไลน์ บาคาร่า รูเล็ต ไฮโล ถอนไวที่สุด">
     <meta property="twitter:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://bit.ly/4xylZ4L">
+    <link rel="canonical" href="https://pjsystem789-php-starter.wasmer.app">
 
     <!-- Favicon & Theme Color -->
     <link rel="icon" type="image/png" href="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
@@ -75,15 +75,15 @@
       "@graph": [
         {
           "@type": "Article",
-          "@id": "https://vivy123.com/casino/#article",
+          "@id": "https://pjsystem789-php-starter.wasmer.app/casino.php",
           "headline": "คู่มือคาสิโนออนไลน์เว็บตรง เจาะลึกกลยุทธ์การเล่นคาสิโนสด บาคาร่า และเทคนิคทำกำไรขั้นสูง",
           "description": "เจาะลึกระบบคาสิโนออนไลน์เว็บตรง กฎกติกาเกมคาสิโนสด บาคาร่า รูเล็ต ไฮโล พร้อมสูตรการเดินเงินและกลยุทธ์บริหารความเสี่ยงระดับมืออาชีพ",
           "keywords": ["คาสิโน", "คาสิโนออนไลน์", "คาสิโนเว็บตรง", "บาคาร่า", "รูเล็ต", "ไฮโล", "เสือมังกร"],
-          "mainEntityOfPage": "https://vivy123.com/casino",
+          "mainEntityOfPage": "https://pjsystem789-php-starter.wasmer.app/casino.php",
           "publisher": {
             "@type": "Organization",
             "name": "VIVY123",
-            "url": "https://bit.ly/4xylZ4L"
+            "url": "https://membervivy123.com/register?affiliate_code=0985552222"
           }
         },
         {
@@ -154,12 +154,12 @@
                 <!-- Guest Header Buttons -->
                 <div class="flex items-center gap-2 lg:gap-3">
                     <!-- ปุ่มเข้าสู่ระบบ -->
-                    <a href="https://bit.ly/4xylZ4L" target="_blank" rel="noopener noreferrer" class="px-3 py-1.5 lg:px-4 lg:py-2 text-xs lg:text-sm font-semibold text-white bg-white/10 hover:bg-white/20 rounded-lg border border-white/20 transition-all">
+                    <a href="https://membervivy123.com/register?affiliate_code=0985552222" target="_blank" rel="noopener noreferrer" class="px-3 py-1.5 lg:px-4 lg:py-2 text-xs lg:text-sm font-semibold text-white bg-white/10 hover:bg-white/20 rounded-lg border border-white/20 transition-all">
                         เข้าสู่ระบบ
                     </a>
 
                     <!-- ปุ่มสมัครสมาชิก -->
-                    <a href="https://bit.ly/4xylZ4L" target="_blank" rel="noopener noreferrer" class="btn-register px-3 py-1.5 lg:px-5 lg:py-2 text-xs lg:text-sm font-bold text-slate-900 rounded-lg flex items-center gap-1">
+                    <a href="https://membervivy123.com/register?affiliate_code=0985552222" target="_blank" rel="noopener noreferrer" class="btn-register px-3 py-1.5 lg:px-5 lg:py-2 text-xs lg:text-sm font-bold text-slate-900 rounded-lg flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
                             <path d="M8 9a3 3 0 100-6 3 3 0 000 6zM8 11a6 6 0 016 6H2a6 6 0 016-6zM16 7a1 1 0 10-2 0v1h-1a1 1 0 100 2h1v1a1 1 0 102 0v-1h1a1 1 0 100-2h-1V7z" />
                         </svg>
@@ -260,7 +260,7 @@
                         
                         <!-- Backlink Action Button -->
                         <div class="mt-6 flex flex-wrap items-center gap-4">
-                            <a href="https://bit.ly/4xylZ4L" target="_blank" rel="noopener noreferrer" class="btn-register inline-flex items-center gap-2 text-slate-950 font-bold px-6 py-3 rounded-xl transition-all shadow-lg">
+                            <a href="https://membervivy123.com/register?affiliate_code=0985552222" target="_blank" rel="noopener noreferrer" class="btn-register inline-flex items-center gap-2 text-slate-950 font-bold px-6 py-3 rounded-xl transition-all shadow-lg">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
                                     <path fill-rule="evenodd" d="M3 3a1 1 0 011-1h12a1 1 0 011 1v12a1 1 0 01-1 1H4a1 1 0 01-1-1V3zm11 4a1 1 0 10-2 0v4a1 1 0 102 0V7zm-3 1a1 1 0 10-2 0v3a1 1 0 102 0V8z" clip-rule="evenodd" />
                                 </svg>
