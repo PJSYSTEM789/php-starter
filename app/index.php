@@ -148,7 +148,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </script>
 </head>
 <body class="antialiased min-h-screen bg-slate-950 text-slate-200">
-
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NXSGCS6R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
     <!-- MAIN WRAPPER -->
     <main class="min-h-screen pt-[56px] lg:pt-[70px] font-prompt">
         
