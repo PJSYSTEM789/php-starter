@@ -14,20 +14,20 @@
 
     <!-- Open Graph / Facebook / LINE -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://bit.ly/4xylZ4L">
+    <meta property="og:url" content="https://pjsystem789-php-starter.wasmer.app/sport.php">
     <meta property="og:title" content="เดิมพันกีฬาออนไลน์ แทงบอลเว็บตรง ค่าน้ำดีที่สุด">
     <meta property="og:description" content="เว็บบอร์ดเดิมพันกีฬาและพนันบอลออนไลน์ ครบทุกแมตช์ ราคาน้ำ 4 ตังค์ ดีที่สุดในไทย">
     <meta property="og:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
 
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://bit.ly/4xylZ4L">
+    <meta property="twitter:url" content="https://pjsystem789-php-starter.wasmer.app/sport.php">
     <meta property="twitter:title" content="เดิมพันกีฬาออนไลน์ แทงบอลเว็บตรง">
     <meta property="twitter:description" content="แทงบอลและเดิมพันกีฬาออนไลน์ครบวงจร ราคาน้ำดีที่สุด ปลอดภัย มั่นคง">
     <meta property="twitter:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://bit.ly/4xylZ4L">
+    <link rel="canonical" href="https://pjsystem789-php-starter.wasmer.app/sport.php">
 
     <!-- Favicon & Theme Color -->
     <link rel="icon" type="image/png" href="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
