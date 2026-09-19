@@ -13,20 +13,20 @@
     <meta name="google-site-verification" content="3anT3-ED1qnBuIVsYn_fD8uFQBy5iZ_luabwCRxHKcs" />
     <!-- Open Graph / Facebook / LINE -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://membervivy123.com/register?affiliate_code=0985552222">
+    <meta property="og:url" content="https://pjsystem789-php-starter.wasmer.app">
     <meta property="og:title" content="สล็อตเว็บตรง สล็อตเว็บตรง แตกง่าย pgslot เกมส์สล็อตไม่ผ่านเอเย่น">
     <meta property="og:description" content="สล็อตเว็บตรง แตกง่าย pg สล็อตออนไลน์ไม่ผ่านเอเย่นต์ pgslot เกมส์สล็อตเจ้าเดียวในประเทศไทย ด้วยระบบ API สล็อตแท้">
     <meta property="og:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
 
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://membervivy123.com/register?affiliate_code=0985552222">
+    <meta property="twitter:url" content="https://pjsystem789-php-starter.wasmer.app">
     <meta property="twitter:title" content="สล็อตเว็บตรง สล็อตเว็บตรง แตกง่าย pgslot">
     <meta property="twitter:description" content="สล็อตเว็บตรง แตกง่าย pg สล็อตออนไลน์ไม่ผ่านเอเย่นต์ pgslot ด้วยระบบ API สล็อตแท้">
     <meta property="twitter:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://membervivy123.com/register?affiliate_code=0985552222">
+    <link rel="canonical" href="https://pjsystem789-php-starter.wasmer.app">
 
     <!-- Favicon & Theme Color -->
     <link rel="icon" type="image/png" href="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
