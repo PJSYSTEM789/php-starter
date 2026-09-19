@@ -11,13 +11,13 @@
     <title>คาสิโนเว็บตรง คาสิโนออนไลน์ สมัครคาสิโนสด บาคาร่า รูเล็ต จ่ายจริง ถอนไว</title>
     <meta name="title" content="คาสิโนเว็บตรง คาสิโนออนไลน์ สมัครคาสิโนสด บาคาร่า รูเล็ต จ่ายจริง ถอนไว">
     <meta name="description" content="คาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ รวมคาสิโนออนไลน์สดทุกค่ายดัง บาคาร่า รูเล็ต ไฮโล เสือมังกร ถ่ายทอดสดระบบ Full HD ปลอดภัย มั่นคง ถอนได้ไม่จำกัด">
-    <meta name="keywords" content="คาสิโน, คาสิโนออนไลน์, คาสิโนเว็บตรง, บาคาร่า, บาคาร่าออนไลน์, รูเล็ต, ไฮโล, เสือมังกร, คาสิโนสด">
+    <meta name="keywords" content="คาสิโน, คาสิโนออนไลน์, คาสิโนเว็บตรง, บาคาร่า, บาคาร่าออนไลน์">
     <meta name="robots" content="index, follow">
     <meta name="author" content="คาสิโนเว็บตรง">
 
     <!-- Open Graph / Facebook / LINE -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://pjsystem789-php-starter.wasmer.app">
+    <meta property="og:url" content="https://pjsystem789-php-starter.wasmer.app/casino.php">
     <meta property="og:title" content="คาสิโนเว็บตรง คาสิโนออนไลน์ บาคาร่าสด รวมทุกค่ายชั้นนำ">
     <meta property="og:description" content="สัมผัสประสบการณ์คาสิโนออนไลน์ระดับโลก คาสิโนสด ถ่ายทอดตรงจากบ่อนชั้นนำ ถอนเงินระบบออโต้ ปลอดภัย 100%">
     <meta property="og:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
@@ -30,7 +30,7 @@
     <meta property="twitter:image" content="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://pjsystem789-php-starter.wasmer.app">
+    <link rel="canonical" href="https://pjsystem789-php-starter.wasmer.app/casino.php">
 
     <!-- Favicon & Theme Color -->
     <link rel="icon" type="image/png" href="https://cdn1.florences.dev/static/platform/vivy123/logo.png">
