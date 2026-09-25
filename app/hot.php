@@ -520,6 +520,7 @@
                 </article>
 
             </section>
+            <center><p class="text-xs text-slate-400"> PJ SYSTEM @ <a href="https://www.igmatraffic.com?ref=331667">SEO 2026</a></p></center>
 
         </div>
 
